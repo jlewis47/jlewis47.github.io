@@ -4,6 +4,8 @@ description:
 remote_theme: daattali/beautiful-jekyll@6.0.1
 
 
+
+
 avatar: "pic.jpg"
 round-avatar: true
 
@@ -36,3 +38,15 @@ footer-hover-col: "#0085A1"
 navbar-img: "big_slice_cropped_z7.jpg"
 footer-img: "big_slice_cropped_z7.jpg"
 #page-img: "/assets/img/bgimage.png"
+
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true  # add comments to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+      ext-js: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"
