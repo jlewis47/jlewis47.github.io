@@ -18,9 +18,9 @@ social-network-links:
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
+# navbar-col: "#EAEAEA"
+# navbar-text-col: "#404040"
+# navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
@@ -34,5 +34,5 @@ footer-hover-col: "#0085A1"
 # instead of colour
 
 navbar-img: "big_slice_cropped_z7.jpg"
-#footer-img: "/assets/img/bgimage.png"
+footer-img: "big_slice_cropped_z7.jpg"
 #page-img: "/assets/img/bgimage.png"
