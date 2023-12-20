@@ -2,3 +2,11 @@ theme: jekyll-theme-minimal
 title: Joe Lewis
 description: 
 remote_theme: daattali/beautiful-jekyll@6.0.1
+
+
+avatar: "pic.jpg"
+round-avatar: true
+
+social-network-links:
+  email: "lewis@iap.fr"
+  github: jlewis47
