@@ -1,3 +1,8 @@
+---
+layout: home
+title: Welcome!
+---
+
 # Hi! 
 ## I'm Joe Lewis,
 ### a post doc working on simulations of Reionization and galaxies.
